@@ -11,6 +11,7 @@ You can filter per type of food.
 You can enter a restaurant and:
 - horizontaly swipe the images
 - Add more of less food
+
 ![image](https://user-images.githubusercontent.com/65075399/156759733-4d315da4-21f9-495d-91c9-2881dbcbdc64.png)
 
 If you click on "Order", you will be redirected to a Google Maps showing you the quickest way to go to pick your food to the restaurant:
