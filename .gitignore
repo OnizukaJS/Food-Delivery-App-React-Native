@@ -60,3 +60,4 @@ buck-out/
 /ios/Pods/
 
 /constants/maps.js
+/android/app/src/main/AndroidManifest.xml
